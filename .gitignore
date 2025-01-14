@@ -1,0 +1,6 @@
+*.zip
+/LoanAccount/nbproject/private/
+/LoanAccount/build/
+/LoanAccount/dist/
+/LoanAccountHiearchy/nbproject/private/
+
