@@ -23,7 +23,6 @@ public class PrimaryMortgage extends LoanAccount
                Primary Mortgage Loan with:
                %sPMI Monthly Amount: $%.2f
                %s
-
                """.
             formatted(super.toString(),PMIMonthlyAmount,address);
     }

@@ -46,7 +46,7 @@ public class LoanAccount
                Principal: $%.2f
                Annual Interest Rate: %.2f%%
                Term of Loan in Months: %d
-               Monhtly Payment: $%.2f
+               Monthly Payment: $%.2f
                """.
             formatted(
                 principal,

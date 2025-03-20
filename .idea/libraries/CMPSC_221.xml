@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CMPSC 221">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProgrammingAssignment2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ProgrammingAssignment1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ProgrammingAssignment4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ProgrammingAssignment3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
